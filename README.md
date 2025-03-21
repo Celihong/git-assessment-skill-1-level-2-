@@ -51,5 +51,5 @@ To get started with the project, follow these steps to clone the repository, set
 
 Clone the project to your local machine:
 
- git clone https://github.com/your-usernamegit-assessment.git 
+ git clone https://github.com/Celihong/git-assessment-skill-1-level-2
  cd git-assessment
